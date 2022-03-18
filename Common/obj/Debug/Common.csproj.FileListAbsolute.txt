@@ -1,0 +1,6 @@
+D:\GIT Migration\Common\bin\Debug\Common.dll
+D:\GIT Migration\Common\bin\Debug\Common.pdb
+D:\GIT Migration\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\GIT Migration\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\GIT Migration\Common\obj\Debug\Common.dll
+D:\GIT Migration\Common\obj\Debug\Common.pdb

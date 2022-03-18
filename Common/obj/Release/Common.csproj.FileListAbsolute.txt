@@ -1,0 +1,11 @@
+D:\GIT Migration\Common\bin\Release\Common.dll
+D:\GIT Migration\Common\bin\Release\Common.pdb
+D:\GIT Migration\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+D:\GIT Migration\Common\obj\Release\Common.dll
+D:\GIT Migration\Common\obj\Release\Common.pdb
+D:\GIT Migration\Common\obj\Release\Common.csprojAssemblyReference.cache
+C:\Users\47700036\Downloads\GIT Migration\Common\bin\Release\Common.dll
+C:\Users\47700036\Downloads\GIT Migration\Common\bin\Release\Common.pdb
+C:\Users\47700036\Downloads\GIT Migration\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+C:\Users\47700036\Downloads\GIT Migration\Common\obj\Release\Common.dll
+C:\Users\47700036\Downloads\GIT Migration\Common\obj\Release\Common.pdb
