@@ -8,7 +8,6 @@ namespace Common
 {
     public class Profile
     {
-        Console.WriteLine("Hello World!");
         public string FirstName { get; set; }
 
         public string LastName { get; set; }
